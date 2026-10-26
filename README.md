@@ -1,68 +1,43 @@
-# 👋 Hi, I'm Ashiranimesh!
+# Hi there, I'm Ashira Nimesh! 👋
 
-### 💻 Computer Science Student | Aspiring Software Developer
+![Profile Views](https://komarev.com/ghpvc/?username=Ashiranimesh&style=for-the-badge&color=FE428E)
 
-I'm a Computer Science student passionate about building useful software and exploring how technology can solve real-world problems.
+## 📊 GitHub Stats
 
-- 🎓 Studying Computer Science
-- 📱 Interested in mobile application development
-- 🌐 Exploring web development and backend APIs
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Continuously learning new technologies and improving my coding skills
-- 🤝 Open to learning, teamwork, and collaborative projects
+![Ashira's Stats](https://github-readme-stats.vercel.app/api?username=Ashiranimesh&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
----
+![Ashira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashiranimesh&theme=radical&hide_border=true)
 
-## 🚀 Areas of Interest
+![Ashira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiranimesh&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-- 📱 Mobile App Development
-- 🌐 Web Development
-- ⚙️ Backend Development and REST APIs
-- 🤖 Artificial Intelligence and Machine Learning
-- 🔌 Internet of Things (IoT)
-- 🎨 Human-Computer Interaction (HCI) and UI/UX
+## 👨‍💻 About Me
 
-## 🛠️ Technologies I'm Exploring
+I'm Ashira Nimesh, a Computer Science undergraduate from Sri Lanka, currently pursuing a BSc (Hons) in Computer Science at the University of Westminster through the Informatics Institute of Technology (IIT).
 
-**Programming & Development**
-- Java
-- HTML, CSS and JavaScript
-- TypeScript
-- Spring Boot and REST APIs
+I'm passionate about software development and enjoy learning new technologies by building projects and solving problems.
 
-**Tools & Platforms**
-- Git and GitHub
-- Postman
-- Firebase
+- 🎓 Studying Computer Science at the University of Westminster through IIT.
+- 🌱 Currently learning Java, Spring Boot, React, TypeScript, and application development.
+- 💻 Interested in object-oriented programming, backend development, and mobile applications.
+- 🚀 Working on improving my programming skills through practical projects.
+- 🎯 Goal: Become a skilled software developer and build useful real-world applications.
 
-*My technology stack is continuously evolving as I learn and build new projects.*
+## 🛠️ Skills & Technologies
 
----
+- **Languages:** Java, JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Technologies:** Spring Boot, React
+- **Backend Development:** REST APIs, Spring MVC
+- **Tools:** IntelliJ IDEA, Git, GitHub, Postman
+- **Databases:** Currently learning database design and integration
 
 ## 📂 Projects
 
-I use GitHub to practise programming, explore new technologies, and develop projects as part of my learning journey.
+Here are some of the projects I'm learning and working on:
 
-🔹 **Products API** — Exploring backend development and product management APIs.
+- **CampusEvents** — A web application project focused on campus events.
+- **Products API** — A REST API built with Java and Spring Boot to practise CRUD operations and object-oriented programming.
+- **Tourism Doll App** — An idea for an interactive application promoting Sri Lankan tourism through AI-powered conversations and location-based learning.
 
-🔹 **Learning Projects** — Practising programming concepts, software design, and application development.
+Check out my repositories for more projects and learning progress!
 
-Check out my repositories for more!
-
-👉 **[Explore My Repositories](https://github.com/Ashiranimesh?tab=repositories)**
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashiranimesh&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiranimesh&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-💻 **GitHub:** [@Ashiranimesh](https://github.com/Ashiranimesh)
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+## 🌱
