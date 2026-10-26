@@ -36,7 +36,7 @@ Here are some of the projects I'm learning and working on:
 
 - **CampusEvents** — A web application project focused on campus events.
 - **Products API** — A REST API built with Java and Spring Boot to practise CRUD operations and object-oriented programming.
-- **Tourism Doll App** — An idea for an interactive application promoting Sri Lankan tourism through AI-powered conversations and location-based learning.
+- **SDGP goal web site** 
 
 Check out my repositories for more projects and learning progress!
 
