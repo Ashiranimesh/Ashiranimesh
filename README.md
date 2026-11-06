@@ -2,42 +2,72 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashiranimesh&style=for-the-badge&color=FE428E)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Ashira's Stats](https://github-readme-stats.vercel.app/api?username=Ashiranimesh&theme=radical&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ashiranimesh&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Ashira's GitHub Stats" />
+</p>
 
-![Ashira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashiranimesh&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashiranimesh&theme=radical&hide_border=true" alt="Ashira's GitHub Streak" />
+</p>
 
-![Ashira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiranimesh&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashiranimesh&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Ashira's Top Languages" />
+</p>
 
 ## 👨‍💻 About Me
 
 I'm Ashira Nimesh, a Computer Science undergraduate from Sri Lanka, currently pursuing a BSc (Hons) in Computer Science at the University of Westminster through the Informatics Institute of Technology (IIT).
 
-I'm passionate about software development and enjoy learning new technologies by building projects and solving problems.
+I'm passionate about software development and enjoy learning new technologies by building projects and solving real-world problems.
 
 - 🎓 Studying Computer Science at the University of Westminster through IIT.
 - 🌱 Currently learning Java, Spring Boot, React, TypeScript, and application development.
-- 💻 Interested in object-oriented programming, backend development, and mobile applications.
-- 🚀 Working on improving my programming skills through practical projects.
+- 💻 Interested in Object-Oriented Programming, backend development, and mobile applications.
+- 🚀 Improving my programming skills through practical projects and teamwork.
 - 🎯 Goal: Become a skilled software developer and build useful real-world applications.
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Java, JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Technologies:** Spring Boot, React
-- **Backend Development:** REST APIs, Spring MVC
-- **Tools:** IntelliJ IDEA, Git, GitHub, Postman
-- **Databases:** Currently learning database design and integration
+**Programming Languages**
+- Java
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+
+**Frameworks & Technologies**
+- Spring Boot
+- React
+- REST APIs
+- Spring MVC
+
+**Tools & Platforms**
+- IntelliJ IDEA
+- Visual Studio Code
+- Git
+- GitHub
+- Postman
+
+**Databases**
+- MySQL
+- Database Design
 
 ## 📂 Projects
 
-Here are some of the projects I'm learning and working on:
+Here are some of the projects I'm currently working on and learning from:
 
-- **CampusEvents** — A web application project focused on campus events.
-- **Products API** — A REST API built with Java and Spring Boot to practise CRUD operations and object-oriented programming.
-- **SDGP goal web site** 
+- **Smart Tikirilia** – An IoT-based smart doll project focused on promoting Sri Lankan tourism and culture.
+- **CampusEvents** – A web application project focused on campus events.
+- **Products API** – A RESTful API developed using Java and Spring Boot to practise CRUD operations and Object-Oriented Programming.
 
-Check out my repositories for more projects and learning progress!
+Check out my repositories to explore my projects and development journey!
 
-## 🌱
+## 📫 Connect With Me
+
+- GitHub: [@Ashiranimesh](https://github.com/Ashiranimesh)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
